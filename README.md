@@ -1,7 +1,7 @@
-[![MasterHead](https://static.vecteezy.com/system/resources/previews/004/272/479/non_2x/programming-code-coding-or-hacker-background-programming-code-icon-made-with-binary-code-digital-binary-data-and-streaming-digital-code-matrix-background-with-digits-1-0-illustration-vector.jpg)]
+
 <h1 align="center">Hi 👋, I'm Niki</h1>
 <h3 align="center">I'm a passionate Full Stack Developer with expertise in frontend development and web design, combining creativity with technical proficiency to deliver high-quality work. I specialize in the MERN stack (MongoDB, Express.js, ReactJS, Node.js) and have a strong background in JavaScript and C++. My goal is to build innovative and user-friendly web applications that make a positive impact.</h3>
-<img align="right"alt='Coding' Width="486" src=https://tse1.mm.bing.net/th?id=OIP.tWJBwTsb8Sc3s_1ZMzihvgHaHa&pid=Api&P=0&h=180>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niki2406&label=Profile%20views&color=0e75b6&style=flat" alt="niki2406" /> </p>
 
